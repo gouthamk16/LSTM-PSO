@@ -1,4 +1,4 @@
-`# Stock Market Price Prediction with LSTM and GRU Models
+# Stock Market Price Prediction with LSTM and GRU Models
 
 ## Overview
 
