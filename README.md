@@ -1,4 +1,4 @@
-# Stock Market Price Prediction with LSTM and Particle Swarm Optimization
+# LSTM with Particle Swarm Optimization (PSO) for Time Series Analysis
 
 ## Overview
 
